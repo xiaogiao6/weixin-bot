@@ -16,7 +16,7 @@ import java.util.List;
 @Data
 @Configuration
 public class SysConfig {
-
+//我修改了
     /**
      * 微信缓存地址
      */
